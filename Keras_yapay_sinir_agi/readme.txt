@@ -1,2 +1,0 @@
-Bu çalýsmada 6 kategoriden oluþan görüntüler dosyadan okuarak train validation ve test olarak ayrýlmýstýr. Uygun ysa modeli oluþturulup 100 epoch egitime sokulmuþtur. eðitim sonucunda %60 doðruluk degerine ulaþýlmýstýr. 
-(Python,Keras,Derin öðrenme)
